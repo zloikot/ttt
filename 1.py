@@ -15,3 +15,6 @@ b=a.split('f')
 
 print(b)
 
+
+print(b*50)
+
