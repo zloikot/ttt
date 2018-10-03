@@ -15,5 +15,3 @@ b=a.split('f')
 
 print(b)
 
-
-
